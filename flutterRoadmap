@@ -7,9 +7,10 @@ Dart
 VsCode
 Android Studio
 intellij
-User Interface
 
->>Widgets
+>>User Interface
+
+Widgets
 statefull widget
 stateless widget
 accessibility
@@ -18,10 +19,12 @@ Theming
 Localization
 
 >>Style
+
 Material
 Cupertion
 
 >>Assets
+
 fonts
 images
 svg
